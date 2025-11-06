@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package spellingbee.v1;
+
+option go_package = "spellingbee_game/api/spellingbee/v1;spellingbeepb";
+
+service SpellingBeeService {
+  rpc GetLetters(GetLettersRequest) returns (GetLettersResponse);
+  rpc SubmitWord(SubmitWordRequest) returns (SubmitWordResponse);
+}
+
+message GetLettersRequest {}
+
+message GetLettersResponse {
+  repeated string letters = 1;
+  string center_letter = 2;
+}
+
+message SubmitWordRequest {
+  string word = 1;
+}
+
+message SubmitWordResponse {
+  bool valid = 1;
+  int32 score = 2;
+  string message = 3;
+  int32 total_score = 4;
+}

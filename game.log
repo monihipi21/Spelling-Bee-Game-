@@ -1,0 +1,103 @@
+[LOG] 2025/10/20 20:17:19 Checked word: apple → false (Invalid letter 'P')
+[LOG] 2025/10/20 20:27:36 Checked word:  → false (Word must contain the letter 'A')
+[LOG] 2025/10/20 20:28:17 Checked word: cjz → false (Word must be at least 4 letters long)
+[LOG] 2025/10/20 20:28:23 Checked word: cjzh → false (Word not found in dictionary)
+[LOG] 2025/10/20 20:28:29 Checked word:  → false (Word must contain the letter 'J')
+[LOG] 2025/10/20 20:28:36 Checked word:  → false (Word must contain the letter 'J')
+[LOG] 2025/10/20 20:36:59 Checked word: cup → false (Word must be at least 4 letters long)
+[LOG] 2025/10/20 20:37:51 Checked word: food → false (Word must contain the letter 'P')
+[LOG] 2025/10/20 20:38:12 Checked word:  → false (Word must contain the letter 'P')
+[LOG] 2025/10/20 20:38:41 Checked word: bong → false (Word not found in dictionary)
+[LOG] 2025/10/20 20:39:00 Checked word:  → false (Word must contain the letter 'O')
+[LOG] 2025/10/20 20:39:06 Checked word:  → false (Word must contain the letter 'V')
+[LOG] 2025/10/20 20:39:37 Checked word: lund → false (Word not found in dictionary)
+[LOG] 2025/10/20 20:39:46 Checked word: furl → false (Word must contain the letter 'D')
+[LOG] 2025/10/20 20:40:10 Checked word: fund → false (Word not found in dictionary)
+[LOG] 2025/10/20 20:40:15 Checked word: durn → false (Word not found in dictionary)
+[LOG] 2025/10/20 20:57:39 Checked word:  → false (Word must contain the letter 'J')
+[LOG] 2025/10/21 16:21:12 Checked word:  → false (Word must contain the letter 'X')
+[LOG] 2025/10/21 16:33:57 Checked word: more → true (Valid word)
+[LOG] 2025/10/21 16:33:57 Scored 1 for word: more
+[LOG] 2025/10/21 16:34:10 Checked word: mirror → true (Valid word)
+[LOG] 2025/10/21 16:34:10 Scored 6 for word: mirror
+[LOG] 2025/10/21 16:34:27 Checked word: fire → true (Valid word)
+[LOG] 2025/10/21 16:34:27 Scored 1 for word: fire
+[LOG] 2025/10/21 16:35:03 Checked word: from → true (Valid word)
+[LOG] 2025/10/21 16:35:03 Scored 1 for word: from
+[LOG] 2025/10/21 17:09:24 Checked word:  → false (Word must contain the letter 'R')
+[LOG] 2025/10/21 17:10:00 Checked word: sale → true (Valid word)
+[LOG] 2025/10/21 17:10:00 Scored 1 for word: sale
+[LOG] 2025/10/21 17:10:09 Checked word: wales → true (Valid word)
+[LOG] 2025/10/21 17:10:09 Scored 5 for word: wales
+[LOG] 2025/10/21 17:10:21 Checked word: dase → true (Valid word)
+[LOG] 2025/10/21 17:10:21 Scored 1 for word: dase
+[LOG] 2025/10/21 17:10:36 Checked word: reads → true (Valid word)
+[LOG] 2025/10/21 17:10:36 Scored 5 for word: reads
+[LOG] 2025/10/21 17:37:12 Checked word: mars → false (Word must contain the letter 'U')
+[LOG] 2025/10/21 17:37:28 Checked word: rusia → false (Word not found in dictionary)
+[LOG] 2025/10/21 17:37:56 Checked word:  → false (Word must contain the letter 'U')
+[LOG] 2025/10/21 17:38:06 Checked word: pure → true (Valid word)
+[LOG] 2025/10/21 17:38:06 Scored 1 for word: pure
+[LOG] 2025/10/21 17:38:21 Checked word: rocet → false (Word not found in dictionary)
+[LOG] 2025/10/21 17:38:42 Checked word: protect → true (Valid word)
+[LOG] 2025/10/21 17:38:42 Scored 7 for word: protect
+[LOG] 2025/10/21 17:38:58 Checked word: route → true (Valid word)
+[LOG] 2025/10/21 17:38:58 Scored 5 for word: route
+[LOG] 2025/10/21 17:39:12 Checked word:  → false (Word must contain the letter 'R')
+[LOG] 2025/10/21 20:02:05 Checked word: hart → true (Valid word)
+[LOG] 2025/10/21 20:02:05 Scored 1 for word: hart
+[LOG] 2025/10/21 20:02:08 Checked word:  → false (Word must contain the letter 'R')
+[LOG] 2025/10/21 20:02:31 Checked word: cars → true (Valid word)
+[LOG] 2025/10/21 20:02:31 Scored 1 for word: cars
+[LOG] 2025/10/21 20:02:50 Checked word: caned → true (Valid word)
+[LOG] 2025/10/21 20:02:50 Scored 5 for word: caned
+[LOG] 2025/10/21 20:03:18 Checked word: dances → true (Valid word)
+[LOG] 2025/10/21 20:03:18 Scored 6 for word: dances
+[LOG] 2025/10/21 20:03:31 Checked word: dacers → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:03:46 Checked word:  → false (Word must contain the letter 'C')
+[LOG] 2025/10/21 20:04:09 Checked word: dimpers → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:04:15 Checked word: primeds → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:04:25 Checked word: spider → true (Valid word)
+[LOG] 2025/10/21 20:04:25 Scored 6 for word: spider
+[LOG] 2025/10/21 20:04:46 Checked word: primeds → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:04:52 Checked word: spidder → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:05:03 Checked word: spiderm → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:05:06 Checked word:  → false (Word must contain the letter 'D')
+[LOG] 2025/10/21 20:05:26 Checked word: zealing → false (Invalid letter 'L')
+[LOG] 2025/10/21 20:05:35 Checked word: negator → false (Invalid letter 'R')
+[LOG] 2025/10/21 20:05:55 Checked word: tangoes → false (Invalid letter 'S')
+[LOG] 2025/10/21 20:06:09 Checked word: gentoza → false (Word not found in dictionary)
+[LOG] 2025/10/21 20:06:42 Checked word:  → false (Word must contain the letter 'E')
+[LOG] 2025/10/21 20:07:03 Checked word: mousted → false (Invalid letter 'S')
+[LOG] 2025/10/21 20:07:38 Checked word:  → false (Word must contain the letter 'D')
+[LOG] 2025/10/21 20:07:56 Checked word:  → false (Word must contain the letter 'E')
+[LOG] 2025/10/21 20:08:21 Checked word: image → true (Valid word)
+[LOG] 2025/10/21 20:08:21 Scored 5 for word: image
+[LOG] 2025/10/21 20:10:18 Checked word:  → false (Word must contain the letter 'V')
+[LOG] 2025/10/21 20:10:23 Checked word:  → false (Word must contain the letter 'F')
+[LOG] 2025/10/21 20:14:32 Checked word:  → false (Word must contain the letter 'S')
+[LOG] 2025/10/23 20:33:30 Checked word: star → true (Valid word)
+[LOG] 2025/10/23 20:33:30 Scored 1 for word: star
+[LOG] 2025/10/23 20:33:39 Checked word: stars → true (Valid word)
+[LOG] 2025/10/23 20:33:39 Scored 5 for word: stars
+[LOG] 2025/10/23 20:34:31 Checked word: trast → false (Word not found in dictionary)
+[LOG] 2025/10/23 20:35:11 Checked word: ds → false (Word must contain the letter 'A')
+[LOG] 2025/10/23 20:35:17 Checked word: das → false (Word must be at least 4 letters long)
+[LOG] 2025/10/23 20:36:12 Checked word:  → false (Word must contain the letter 'A')
+[LOG] 2025/10/25 12:34:13 Checked word: fly → false (Word must be at least 4 letters long)
+[LOG] 2025/10/25 12:34:40 Checked word:  → false (Word must contain the letter 'L')
+[LOG] 2025/10/25 12:35:03 Checked word: gale → true (Valid word)
+[LOG] 2025/10/25 12:35:03 Scored 1 for word: gale
+[LOG] 2025/10/25 12:41:41 Checked word: nice → false (Word must contain the letter 'A')
+[LOG] 2025/10/25 12:42:04 Checked word: sate → true (Valid word)
+[LOG] 2025/10/25 12:42:04 Scored 1 for word: sate
+[LOG] 2025/10/25 12:42:32 Checked word: necat → false (Word not found in dictionary)
+[LOG] 2025/10/25 12:43:15 Checked word:  → false (Word must contain the letter 'A')
+[LOG] 2025/10/25 12:45:40 Checked word: rent → true (Valid word)
+[LOG] 2025/10/25 12:45:40 Scored 1 for word: rent
+[LOG] 2025/10/25 12:46:02 Checked word: petl → false (Word must contain the letter 'R')
+[LOG] 2025/10/25 12:46:24 Checked word: rental → true (Valid word)
+[LOG] 2025/10/25 12:46:24 Scored 6 for word: rental
+[LOG] 2025/10/25 12:50:18 Checked word:  → false (Word must contain the letter 'R')
+[LOG] 2025/10/25 12:54:03 Checked word: ccnu → false (Word not found in dictionary)
+[LOG] 2025/10/25 12:54:20 Checked word: scup → false (Word must contain the letter 'N')
