@@ -1,5 +1,4 @@
 # Speeling Bee Game
-## Monika Szczepańska CO.SDH3-B
 
 ## Overview
 
